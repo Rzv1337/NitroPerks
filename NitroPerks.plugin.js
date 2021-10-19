@@ -38,8 +38,8 @@ module.exports = (() => {
             }],
             "version": "1.3.6",
             "description": "Unlock all screensharing modes, and use cross-server emotes & gif emotes, Discord wide! (You CANNOT upload 100MB files though. :/)",
-            "github": "https://github.com/respecting/NitroPerks",
-            "github_raw": "https://raw.githubusercontent.com/respecting/NitroPerks/main/NitroPerks.plugin.js"
+            "github": "https://github.com/Rzv1337/NitroPerks",
+            "github_raw": "https://raw.githubusercontent.com/Rzv1337/NitroPerks/main/NitroPerks.plugin.js"
         },
         "main": "NitroPerks.plugin.js"
     };
